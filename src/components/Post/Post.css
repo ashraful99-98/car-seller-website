@@ -1,0 +1,62 @@
+.postToHome{
+    background-image: url('../../image/svend-nielsen--ChfvCRWesI-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 58vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    text-align: right;
+    color: #fff;
+    font-weight: 700;
+}
+.postToHome .ancor a{
+    color: #fff;
+}
+.postToHome .ancor a:hover{
+    color: gray;
+    background: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.post-me{
+    background-color: honeydew;
+}
+.post-gigi{
+    color: gray;
+}
+.post-gigi div:hover{
+ color: #E18148;
+}
+
+.healthy{
+    background:#e6dcd6;
+}
+.health-info{
+    padding: 60px 0;
+}
+.text-s{
+    color: #E18148;
+}
+.hr-row{
+    height: 4px;
+    width: 20px;
+    text-align: center;
+}
+.cart-box{
+    border: 2px solid #E18148;
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    border: 1.5px solid #E18148;
+    height: 50vh;
+    width: 50vw;
+}

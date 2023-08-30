@@ -1,0 +1,37 @@
+.videoToHome{
+    background-image: url('../../image/istockphoto-1089357432-170667a.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 58vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+.ancor a{
+    color: rgb(20, 112, 216);
+}
+.ancor a:hover{
+    color: #fff;
+    background: rgb(20, 112, 216);
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+.social-divsection{
+    background: #b9e3f3;
+}
+.social-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.social-img{
+    width: 200px;
+    height: 180px;
+}

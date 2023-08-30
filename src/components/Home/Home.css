@@ -1,0 +1,142 @@
+.slider-img{
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height:500px;
+}
+.slider-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+    color: #052046;
+}
+.slider-info h1{
+    font-weight: 600;
+}
+.slider-info p{
+    font-size: 18px;
+}
+
+.slider-btn{
+    text-decoration: none;
+    background-color: #E22937;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 8px 18px;
+}
+.slider-btn:hover{
+    color: #fff;
+}
+.span-text{
+    color: red;
+}
+.text{
+    text-align: center;
+    padding: 30px 5px;
+}
+.text-info{
+    padding: 50px 0;
+}
+.post{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.post-text{
+    padding-right: 4px;
+}
+.post-text h3{
+    border-bottom: 1px solid gray;
+    padding-bottom: 5px;
+
+}
+.post-text h3:hover{
+    color: #dd7f48;
+}
+.post-text p{
+    letter-spacing: 1.2px;
+    color: gray;
+}
+
+.post-img{
+   height: 400px;
+}
+.post-btn{
+    text-decoration: none;
+    background-color: #dd7f48;
+    padding: 5px 12px;
+    border: none;
+    color: #fff;
+}
+.post-btn:hover{
+    background-color: gray;
+    color: #fff;
+}
+.pos{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.pa{
+    
+    background-color: #F3F5F5;
+}
+.person-info{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+.person-info h2{
+    color:  #dd7f48;
+}
+.pos{
+    background-color: #FFF;
+    padding-right: 5px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+.pos-text{
+    padding-left: 5px;
+    padding-right: 8px;
+}
+.pa1{
+    border-bottom: 1px ridge #dd7f48;
+    padding-bottom: 4px;
+}
+
+.small-text{
+    border-bottom: 1px ridge #dd7f48;
+}
+.pop{
+    padding-top: 6px;
+    color: gray;
+}
+
+.like{
+    background-color: #B94E62;
+    padding: 20px;
+}
+.like-me{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    color: honeydew;
+}
+.like-btn{
+    background-color: #B94E62;
+    padding: 8px 15px;
+    border: 1px solid #fff;
+    color: #fff;
+}
+.like-btn:hover{
+    background-color: honeydew;
+    color: indianred;
+    font-weight: 600;
+}

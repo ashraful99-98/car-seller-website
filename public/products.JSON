@@ -1,0 +1,242 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Lamborghini Huracán",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 18,
+        "star": 4,
+        "starCount": 3245,
+        "img": "./carImg/10.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "pretty asf 8bit ",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 36,
+        "star": 3,
+        "starCount": 3245,
+        "img": "./carImg/11.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Farari Mag",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 24,
+        "star": 5,
+        "starCount": 3245,
+        "img": "./carImg/12.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "MAGA-Star 5",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 6,
+        "star": 4,
+        "starCount": 3245,
+        "img": "./carImg/13.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "BMW 55",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": 12,
+        "star": 5,
+        "starCount": 3245,
+        "img": "./carImg/14.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Magnat Paiton",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": "MRP",
+        "star": 3,
+        "starCount": 3245,
+        "img": "./carImg/9.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 120000,
+        "shipping": 7.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Paiton POP",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": "MRP",
+        "star": 3,
+        "starCount": 3245,
+        "img": "./carImg/5.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 500000,
+        "shipping": 77.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "MAG LONG LIGHT",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": "MRP",
+        "star": 3,
+        "starCount": 3245,
+        "img": "./carImg/6.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 400000,
+        "shipping": 87.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Magnat !@",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": "MRP",
+        "star": 3,
+        "starCount": 3245,
+        "img": "./carImg/7.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 620000,
+        "shipping": 107.99
+    },
+    {
+        "key": "B002RL8IYK",
+        "category": "Awesome Class Model",
+        "name": "Magnat Paiton",
+        "seller": "3M",
+        "wholePrice": "68",
+        "priceFraction": "36",
+        "stock": "MRP",
+        "star": 5,
+        "starCount": 3245,
+        "img": "./carImg/8.png",
+        "features": [
+            {
+                "description": "Display Size",
+                "value": "17 inches"
+            },
+            {
+                "description": "Hardware Platform",
+                "value": "PC"
+            }
+        ],
+        "price": 22120000,
+        "shipping": 777.99
+    }
+]
